@@ -1,6 +1,6 @@
 ## [Assignment_1_Modern_Web_Dev_Frameworks](https://github.com/sagarw749/Assignment_1_Modern_Web_Dev_Frameworks)
 > "Code is read more than it is written."
-### This introductory assingment has an **_index.html_** page displaying the solutions provided by **Vecta Corporation**.
+#### This introductory assingment has an **_index.html_** page displaying the solutions provided by **Vecta Corporation**.
 Technologies used : 
 * VSCode 
 * Github 
