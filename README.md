@@ -2,7 +2,7 @@
 > "Code is read more than it is written."
 #### This introductory assingment has an **_index.html_** page displaying the solutions provided by **Vecta Corporation**.
 Technologies used : 
-* VSCode 
+* Visual Studio Code 
 * Github 
 * Github Desktop 
 
